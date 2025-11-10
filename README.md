@@ -1,15 +1,11 @@
-<div align="center">
-  
 # 👋 Hello, I'm trilltino
 
 ### 🦀 Rust Developer | Building Fast & Reliable Software
 
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/trilltino)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/trilltino)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/trilltino)
-[![Website](https://img.shields.io/badge/Website-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://yourwebsite.com)
-
-</div>
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/trilltino)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/valentine-i-b0619b2b6/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/StellarEuropa)
+[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://xforcesolutions.com)
 
 ---
 
@@ -25,6 +21,7 @@ fn main() {
             "Web Development",
             "Performance Optimization",
             "Full-Stack Applications",
+            "Blockchain Development",
         ],
     };
     
@@ -33,7 +30,7 @@ fn main() {
 }
 ```
 
-I'm a passionate **Rust developer** who loves building high-performance, memory-safe applications. Whether it's backend services, web applications with Leptos, or systems programming, I enjoy the challenge of writing code that's both fast and reliable.
+I'm a passionate **Rust developer** who loves building high-performance, memory-safe applications. Whether it's backend services, web applications with Leptos, blockchain development, or systems programming, I enjoy the challenge of writing code that's both fast and reliable.
 
 ---
 
@@ -43,14 +40,13 @@ I'm a passionate **Rust developer** who loves building high-performance, memory-
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
 ### Rust Ecosystem
-![Axum](https://img.shields.io/badge/Axum-FF6B6B?style=for-the-badge&logo=rust&logoColor=white)
-![Leptos](https://img.shields.io/badge/Leptos-FF6B6B?style=for-the-badge&logo=rust&logoColor=white)
-![Tokio](https://img.shields.io/badge/Tokio-FF6B6B?style=for-the-badge&logo=rust&logoColor=white)
-![Serde](https://img.shields.io/badge/Serde-FF6B6B?style=for-the-badge&logo=rust&logoColor=white)
-![SQLx](https://img.shields.io/badge/SQLx-FF6B6B?style=for-the-badge&logo=rust&logoColor=white)
+![Axum](https://img.shields.io/badge/Axum-000000?style=for-the-badge&logo=rust&logoColor=white)
+![Leptos](https://img.shields.io/badge/Leptos-000000?style=for-the-badge&logo=rust&logoColor=white)
+![Tokio](https://img.shields.io/badge/Tokio-000000?style=for-the-badge&logo=rust&logoColor=white)
+![Serde](https://img.shields.io/badge/Serde-000000?style=for-the-badge&logo=rust&logoColor=white)
 
 ### Tools & Technologies
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -58,36 +54,27 @@ I'm a passionate **Rust developer** who loves building high-performance, memory-
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ---
 
-## 📊 GitHub Stats
+## 🔥 Featured Project
 
-<div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=trilltino&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&icon_color=FF6B6B)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=trilltino&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B)
-
-![GitHub Streak](https://github-readme-streak-stats.demolab.com/?user=trilltino&theme=radical&hide_border=true&background=0D1117&ring=FF6B6B&fire=FF6B6B&currStreakLabel=FF6B6B)
-
-</div>
-
----
-
-## 🦀 Rust Projects
-
-### 🔥 Featured Projects
-
-#### [XFSolutions](https://github.com/trilltino/xforcesolutions)
+### XFSolutions
 > **Full-stack web application** built with Leptos (SSR), Axum, and Tailwind CSS
 > 
-> ![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust)
-> ![Leptos](https://img.shields.io/badge/Leptos-FF6B6B?style=flat-square)
-> ![Axum](https://img.shields.io/badge/Axum-FF6B6B?style=flat-square)
-> ![Docker](https://img.shields.io/badge/Docker-Ready-2496ED?style=flat-square&logo=docker)
-
-<!-- Add more projects here -->
+> A modern, performant web application featuring:
+> - **Server-Side Rendering** with Leptos
+> - **High-performance backend** with Axum
+> - **Beautiful UI** with custom font styling and reflective header effects
+> - **Light/Dark mode** with smooth theme transitions
+> - **Responsive design** with Tailwind CSS
+> - **Rate limiting** and security features
+> - **Contact form** with validation
+>
+> **Tech Stack:** Rust • Leptos • Axum • Tailwind CSS • Docker
+>
+> [![Repository](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/trilltino/xforcesolutions)
 
 ---
 
@@ -98,8 +85,10 @@ I'm a passionate **Rust developer** who loves building high-performance, memory-
 async fn main() {
     let projects = vec![
         "Building high-performance web APIs with Axum",
-        "Creating reactive UIs with Leptos",
-        "Exploring async Rust patterns",
+        "Creating reactive UIs with Leptos and SSR",
+        "Implementing beautiful font styling and theme systems",
+        "Exploring async Rust patterns and concurrency",
+        "Developing blockchain and Web3 applications",
         "Contributing to open-source Rust projects",
     ];
     
@@ -111,69 +100,93 @@ async fn main() {
 
 ---
 
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=trilltino&show_icons=true&theme=dark&hide_border=true&bg_color=000000&title_color=00ff00&icon_color=00ff00)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=trilltino&layout=compact&theme=dark&hide_border=true&bg_color=000000&title_color=00ff00)
+
+![GitHub Streak](https://github-readme-streak-stats.demolab.com/?user=trilltino&theme=dark&hide_border=true&background=000000&ring=00ff00&fire=00ff00&currStreakLabel=00ff00)
+
+---
+
+## 🦀 Rust Projects
+
+### Recent Work
+
+#### XFSolutions - Full-Stack Web Application
+- **Leptos SSR** with server-side rendering
+- **Axum backend** with rate limiting and CORS
+- **Tailwind CSS** with custom font styling
+- **Light/Dark mode** with theme persistence
+- **Reflective header effects** and glossy text
+- **Contact form** with server-side validation
+- **Docker support** for easy deployment
+
+**Technologies:** Rust, Leptos, Axum, Tailwind CSS, Docker
+
+---
+
 ## 📝 Latest Blog Posts
 
-<!-- BLOG-POST-LIST:START -->
-- [Why Rust for Web Development?](https://yourblog.com/rust-web-dev)
-- [Building Fast APIs with Axum](https://yourblog.com/axum-tutorial)
-- [Leptos: The Future of Rust Web Frameworks](https://yourblog.com/leptos-intro)
-<!-- BLOG-POST-LIST:END -->
+* Why Rust for Web Development?
+* Building Fast APIs with Axum
+* Leptos: The Future of Rust Web Frameworks
+* Server-Side Rendering with Leptos
+* Building Beautiful UIs with Tailwind CSS and Rust
 
 ---
 
 ## 🏆 Achievements
 
-- 🦀 **Rust Contributor** - Active in the Rust community
-- 🚀 **Performance Enthusiast** - Always optimizing for speed
-- 🔒 **Security Focused** - Memory-safe by default
-- 📚 **Continuous Learner** - Always exploring new Rust crates
+* 🦀 **Rust Contributor** - Active in the Rust community
+* 🚀 **Performance Enthusiast** - Always optimizing for speed
+* 🔒 **Security Focused** - Memory-safe by default
+* 📚 **Continuous Learner** - Always exploring new Rust crates
+* 🎨 **UI/UX Enthusiast** - Building beautiful, responsive interfaces
+* ⚡ **Full-Stack Developer** - From backend APIs to frontend UIs
 
 ---
 
 ## 📈 Contribution Graph
 
-<div align="center">
-  
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=trilltino&theme=redical&hide_border=true&bg_color=0D1117&color=FF6B6B&line=FF6B6B&point=FFFFFF)
-
-</div>
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=trilltino&theme=dark&hide_border=true&bg_color=000000&color=00ff00&line=00ff00&point=00ff00)
 
 ---
 
 ## 🤝 Let's Connect
 
-<div align="center">
-
 ```rust
 pub struct ContactInfo {
     pub email: &'static str,
     pub github: &'static str,
+    pub linkedin: &'static str,
     pub twitter: &'static str,
     pub website: &'static str,
 }
 
 let contact = ContactInfo {
-    email: "your.email@example.com", // Update with your email
+    email: "info@xfsolutions.com",
     github: "https://github.com/trilltino",
-    twitter: "https://twitter.com/trilltino", // Update if you have Twitter
-    website: "https://yourwebsite.com", // Update with your website
+    linkedin: "https://www.linkedin.com/in/valentine-i-b0619b2b6/",
+    twitter: "https://x.com/StellarEuropa",
+    website: "https://xforcesolutions.com",
 };
 
 // Let's build something amazing together! 🦀
 ```
 
-</div>
-
 ---
 
-<div align="center">
-  
-![Rust](https://img.shields.io/badge/Made%20with-Rust-orange?style=for-the-badge&logo=rust&logoColor=white)
-![Love](https://img.shields.io/badge/Built%20with-❤️-red?style=for-the-badge)
+## 🦀 Rust Love
+
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![Leptos](https://img.shields.io/badge/Leptos-000000?style=for-the-badge&logo=rust&logoColor=white)
+![Axum](https://img.shields.io/badge/Axum-000000?style=for-the-badge&logo=rust&logoColor=white)
 
 **Thanks for visiting!** ⭐️ Star some of my repositories if you find them interesting!
 
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=trilltino.trilltino)
+---
 
-</div>
+*Profile README last updated: January 2025*
 
