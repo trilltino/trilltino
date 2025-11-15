@@ -1,6 +1,6 @@
-# 👋 Hello, I'm trilltino
+# Hi Tino here!
 
-### 🦀 Rust Developer | Building Fast & Reliable Software
+### 🦀 Rust Developer 
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/trilltino)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/valentine-i-b0619b2b6/)
@@ -19,22 +19,21 @@ fn main() {
         interests: vec![
             "Systems Programming",
             "Web Development",
-            "Performance Optimization",
             "Full-Stack Applications",
             "Blockchain Development",
         ],
     };
     
-    println!("🚀 Building fast, safe, and concurrent software!");
+    println!(" Building fast, safe, and concurrent software!");
     developer.code();
 }
 ```
 
-I'm a passionate **Rust developer** who loves building high-performance, memory-safe applications. Whether it's backend services, web applications with Leptos, blockchain development, or systems programming, I enjoy the challenge of writing code that's both fast and reliable.
+I'm a OS **Rust developer** who loves building high-performance, memory-safe applications. Whether it's backend services, web applications with Leptos, blockchain development, or systems programming.
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Languages & Frameworks
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
@@ -58,7 +57,7 @@ I'm a passionate **Rust developer** who loves building high-performance, memory-
 
 ---
 
-## 🔥 Featured Project
+##  Featured Project
 
 ### XFSolutions
 > **Full-stack web application** built with Leptos (SSR), Axum, and Tailwind CSS
@@ -127,16 +126,6 @@ async fn main() {
 
 ---
 
-## 📝 Latest Blog Posts
-
-* Why Rust for Web Development?
-* Building Fast APIs with Axum
-* Leptos: The Future of Rust Web Frameworks
-* Server-Side Rendering with Leptos
-* Building Beautiful UIs with Tailwind CSS and Rust
-
----
-
 ## 🏆 Achievements
 
 * 🦀 **Rust Contributor** - Active in the Rust community
@@ -148,43 +137,19 @@ async fn main() {
 
 ---
 
-## 📈 Contribution Graph
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=trilltino&theme=dark&hide_border=true&bg_color=000000&color=00ff00&line=00ff00&point=00ff00)
-
----
-
-## 🤝 Let's Connect
+## Let's Connect
 
 ```rust
-pub struct ContactInfo {
-    pub email: &'static str,
-    pub github: &'static str,
-    pub linkedin: &'static str,
-    pub twitter: &'static str,
-    pub website: &'static str,
-}
 
 let contact = ContactInfo {
-    email: "info@xfsolutions.com",
+    email: "isichei@outlook.com",
     github: "https://github.com/trilltino",
     linkedin: "https://www.linkedin.com/in/valentine-i-b0619b2b6/",
     twitter: "https://x.com/StellarEuropa",
     website: "https://xforcesolutions.com",
 };
 
-// Let's build something amazing together! 🦀
 ```
-
----
-
-## 🦀 Rust Love
-
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
-![Leptos](https://img.shields.io/badge/Leptos-000000?style=for-the-badge&logo=rust&logoColor=white)
-![Axum](https://img.shields.io/badge/Axum-000000?style=for-the-badge&logo=rust&logoColor=white)
-
-**Thanks for visiting!** ⭐️ Star some of my repositories if you find them interesting!
 
 ---
 
