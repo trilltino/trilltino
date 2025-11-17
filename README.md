@@ -1,23 +1,10 @@
 # Hi, I'm Tino 👋
 
-**Rust-First Software Engineer** | Building Production-Grade Systems
+**RustSoftware Engineer** 
 
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-blue?style=flat-square&logo=github)](https://github.com/trilltino)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/valentine-i-b0619b2b6/)
 [![Twitter](https://img.shields.io/badge/Twitter-Follow-blue?style=flat-square&logo=twitter)](https://x.com/StellarEuropa)
-[![Website](https://img.shields.io/badge/Website-Visit-black?style=flat-square)](https://xforcesolutions.com)
 
 ---
-
-## About Me
-
-I'm a **Rust-first** software engineer specializing in building **idiomatic, production-grade** systems and applications. My work emphasizes performance, memory safety, and type safety across the entire stack—from blockchain smart contracts to full-stack web applications and native desktop software.
-
-I believe in writing code that not only works but exemplifies best practices, demonstrating what's possible when leveraging Rust's unique strengths in systems programming, web development, and blockchain technology.
-
----
-
-## Leadership & Community
 
 ### President, European Chapter — Stellar Development Foundation Ambassador Program
 
@@ -27,12 +14,8 @@ I had the honor of serving as **President of the European Chapter of the Stellar
 - **Discuss and evangelize** blockchain technology and developer best practices
 - **Mentor and guide** the next generation of blockchain developers
 - **Bridge the gap** between technical implementation and strategic vision
-
-This leadership experience has deepened my understanding of how technology can drive real-world impact while maintaining the highest standards of code quality and architectural excellence.
-
+- 
 ---
-
-## Repositories & Technologies
 
 ### Full-Stack Web Applications
 
@@ -109,20 +92,6 @@ Docker • PostgreSQL • Redis • Linux • Git • Tailwind CSS • GitHub Ac
 
 ---
 
-## Development Philosophy
-
-I write **idiomatic, production-grade Rust code** that:
-
-- ✅ Emphasizes **type safety** and **memory safety** at compile time
-- ✅ Follows **Rust best practices** and established patterns
-- ✅ Implements **comprehensive error handling** and logging
-- ✅ Includes **production-ready documentation** and code comments
-- ✅ Designs **modular, reusable architectures** suitable for open-source contribution
-- ✅ Prioritizes **performance** without sacrificing code clarity
-- ✅ Demonstrates **real-world applicability** in production environments
-
----
-
 ## Featured Project Highlight
 
 ### XForce Terminal — End-to-End Rust DeFi Platform
@@ -144,19 +113,6 @@ All my projects are designed with the open-source community in mind. Reusable li
 
 ---
 
-## Let's Connect
-
-I'm always interested in discussing Rust development, blockchain technology, and opportunities to collaborate on impactful projects.
-
-**Contact Information:**
-- 📧 Email: [isichei@outlook.com](mailto:isichei@outlook.com)
-- 💼 LinkedIn: [valentine-i-b0619b2b6](https://www.linkedin.com/in/valentine-i-b0619b2b6/)
-- 🐦 Twitter: [@StellarEuropa](https://x.com/StellarEuropa)
-- 🌐 Website: [xforcesolutions.com](https://xforcesolutions.com)
-- 💻 GitHub: [@trilltino](https://github.com/trilltino)
-
----
-
 ## GitHub Statistics
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=trilltino&show_icons=true&theme=radical)
@@ -167,4 +123,3 @@ I'm always interested in discussing Rust development, blockchain technology, and
 
 ---
 
-_Profile last updated: January 2025_
