@@ -92,7 +92,7 @@ Docker • PostgreSQL • Redis • Linux • Git • Tailwind CSS • GitHub Ac
 
 ### XForce Terminal — End-to-End Rust DeFi Platform
 
-XForce Terminal represents the pinnacle of idiomatic Rust development—a complete full-stack application built entirely in Rust from smart contracts to desktop GUI to web components. The project showcases:
+XForce Terminal represents a complete full-stack application built entirely in Rust from smart contracts to desktop GUI to web components. The project showcases:
 
 - **Unified Type Safety:** Shared types across Solana programs, desktop app, backend API, and web components
 - **Production Architecture:** Modular libraries (`lib-solana`, `lib-core`, `lib-web`, `lib-auth`) designed for crates.io publication
