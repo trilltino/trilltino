@@ -2,7 +2,7 @@
 
 **RustSoftware Engineer** 
 
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-blue?style=flat-square&logo=twitter)](https://x.com/StellarEuropa)
+
 
 ---
 
