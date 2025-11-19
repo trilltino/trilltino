@@ -1,8 +1,6 @@
 # Hi, I'm Tino 👋
 
-**RustSoftware Engineer** 
-
-
+**Rust Software Engineer** 
 
 ---
 
@@ -22,8 +20,8 @@ I had the honor of serving as **President of the European Chapter of the Stellar
 **Description:** Production-grade full-stack web application featuring server-side rendering with Leptos, high-performance backend with Axum, and modern UI with Tailwind CSS. Includes rate limiting, security features, and comprehensive contact form validation.
 
 #### **Fundraisely**
-**Languages & Frameworks:** Rust • Leptos • Axum • Full Stack  
-**Description:** Comprehensive fundraising platform built end-to-end in Rust. Features campaign management, donation processing, real-time analytics, and social media integration. Demonstrates production-ready Rust web development patterns.
+**Languages & Frameworks:** Rust • Typescript/Javascript • Full Stack  
+**Description:** Comprehensive fundraising platform built With Typescript/Javascript and Rust smart contracts . Features campaign management, donation processing, real-time analytics, and social media integration.
 
 ---
 
@@ -51,7 +49,7 @@ I had the honor of serving as **President of the European Chapter of the Stellar
 
 #### **Yew Scaffold**
 **Languages & Frameworks:** Rust • Yew • CLI • Tooling  
-**Description:** Production-ready scaffolding tool for Yew framework projects. Generates boilerplate code and project structure with best practices, routing, and component templates built-in. Streamlines Rust web application development.
+**Description:** Production-ready scaffolding tool for Yew framework projects. Generates boilerplate code and project structure with best practices, routing, and component templates built-in. Streamlines Rust/Stellar web application development.
 
 #### **XForce Crypto Info** (`xforce-crypto-info`)
 **Languages & Frameworks:** Rust (news-service) • Python (news-scraper)  
