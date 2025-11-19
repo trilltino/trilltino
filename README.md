@@ -62,8 +62,8 @@ I had the honor of serving as **President of the European Chapter of the Stellar
 ### Applications & Games
 
 #### **XFChess**
-**Languages & Frameworks:** Rust • Tokio • Web Technologies  
-**Description:** Full-featured chess application demonstrating advanced Rust patterns. Features multiplayer support, game analysis, move validation, and tournament modes. Showcases advanced state management and real-time communication patterns using Tokio.
+**Languages & Frameworks:** Rust • Bey • Web Technologies  
+**Description:** Full-featured chess game application demonstrating advanced Rust patterns. Written in the open source Bevy game enginge i want it to be the first of many rust games showing the power of the language Features , game analysis, move validation, and tournament modes. Showcases advanced state management and real-time communication patterns using Tokio, and integrates the "The Salewski Chess Engine" - https://github.com/StefanSalewski/salewski-chess
 
 ---
 
