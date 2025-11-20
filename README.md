@@ -8,7 +8,7 @@
 
 I had the honor of serving as **President of the European Chapter of the Stellar Development Foundation's Ambassador Program**, where I led initiatives to advance blockchain technology adoption and developer education across Europe. This role provided me with invaluable opportunities to:
 
-- **Employ cutting-edge technology** in production environments
+- **Employ technology** in production environments
 - **Discuss** blockchain technology and developer best practices
 
 ---
